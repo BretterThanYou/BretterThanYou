@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BretterThanYou
 - 👀 I’m interested in Software Development, Machine Learning
-- 🌱 I’m currently learning Python, Javascript, HTML, CSS
+- 🌱 I’m currently learning Python, Javascript, HTML, CSS, C++
 - 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me Email
+- 📫 How to reach me: Email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I know how to solve the Rubik's Cube
 
